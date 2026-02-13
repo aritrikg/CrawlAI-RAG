@@ -89,16 +89,3 @@ This is **true Retrieval-Augmented Generation (RAG)**.
 
 ---
 
-## Author
-
-**CrawlAI RAG**  
-Built by **Ankit Kumar Nayak**
-
----
-
-## Support
-
-If you like this project:
-- Give it a **star**
-- Fork it
-- Contribute or suggest improvements
